@@ -1,0 +1,2 @@
+# Strings3
+strlen()
